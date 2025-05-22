@@ -69,11 +69,6 @@ Welcome to **YatriGo**, a revolutionary AI-powered social travel platform that b
 - **Offline Travel Maps**
 - **Aadhar Authentication with OTP**
 - **Trip Insurance Recommendations**
-  
----
-
-## 📸 Sneak Peek (Optional)
-*Insert screenshots or gifs of the app here*
 
 ---
 
@@ -104,6 +99,17 @@ Welcome to **YatriGo**, a revolutionary AI-powered social travel platform that b
  4. **Configure APIs & Environment**
 
     *Add .env file with your credentials*
+    
+## 📸 Sneak Peek
+1. ### 🔐 Login (If you already have an account)
+   ![image](https://github.com/user-attachments/assets/37673a44-3968-4e0d-bdb3-a500c8e8eda0)
+2. ### 📝 Sign Up (Create a new account)
+   ![image](https://github.com/user-attachments/assets/d56a1e43-e115-4609-ae77-248dc35a7263)
+
+3. ### ✅ Logged In Successfully
+   ![image](https://github.com/user-attachments/assets/0afd0a59-2ab8-49a6-8a15-a637ab26337b)
+
+
 
 
 ## 🤝 Contributing
