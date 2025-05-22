@@ -123,8 +123,11 @@ Welcome to **YatriGo**, a revolutionary AI-powered social travel platform that b
       Navigate to tagged content or reels (optional features)
 
     ![image](https://github.com/user-attachments/assets/7c9704a0-e61c-454b-8464-704d401a3aa7)
-5. 
-   
+5. ### 💬 Interact with Posts (Like, Comment & More)
+   ![image](https://github.com/user-attachments/assets/b39bb132-ac02-4cfd-a87f-f07e73c0a963)
+   ![image](https://github.com/user-attachments/assets/a71d79ac-3ffa-47ae-8336-eec4ea1e0486)
+
+
 
 
 
