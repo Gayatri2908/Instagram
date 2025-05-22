@@ -227,6 +227,9 @@ Welcome to **YatriGo**, a revolutionary AI-powered social travel platform that b
 
 ![image](https://github.com/user-attachments/assets/b2a83252-2713-4f27-a1b6-42010a47049a)
 
+![image](https://github.com/user-attachments/assets/acd572b1-0d7b-49c6-bdc4-3129847176f4)
+
+
 
 
 
