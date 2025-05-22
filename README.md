@@ -138,7 +138,13 @@ Welcome to **YatriGo**, a revolutionary AI-powered social travel platform that b
 
     YatriGo curates travel destinations tailored to what you love. Whether you're a mountain lover, beach enthusiast, or heritage explorer — we’ve got you covered!
     ![image](https://github.com/user-attachments/assets/37cfc1cf-5bd1-44c7-a8b3-3b3d6a1744ed)
+    
+### 8. 💬 Real-Time Chat with Fellow Travelers
+
+    Stay connected with friends and fellow explorers through instant messaging, just like Instagram DMs.
+    ![image](https://github.com/user-attachments/assets/29f1a68c-ae1f-4ae1-8464-896c11792dc4)
 ### 
+
 
 
 
