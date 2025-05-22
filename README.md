@@ -108,6 +108,23 @@ Welcome to **YatriGo**, a revolutionary AI-powered social travel platform that b
 
 3. ### ✅ Logged In Successfully
    ![image](https://github.com/user-attachments/assets/0afd0a59-2ab8-49a6-8a15-a637ab26337b)
+   
+4. ### 👤 My Profile (Visit Your Own Profile)
+    the profile page lets users view and manage their account. On visiting your profile, you can:
+
+      See your posted images and captions
+  
+      View follower and following counts
+  
+      Edit your bio and profile picture
+  
+      Access saved posts (if implemented)
+  
+      Navigate to tagged content or reels (optional features)
+
+    ![image](https://github.com/user-attachments/assets/7c9704a0-e61c-454b-8464-704d401a3aa7)
+5. 
+   
 
 
 
