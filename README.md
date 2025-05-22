@@ -7,7 +7,7 @@ Welcome to **YatriGo**, a revolutionary AI-powered social travel platform that b
 
 ## ✨ Key Features
 
-### 🔗 **1. Profile-Based AI Matching**
+### 🔗 **1. Profile-Based AI Matching** 
 - Match with travelers based on:
   - Destination & dates
   - Budget (luxury, backpacker, etc.)
